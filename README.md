@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sigmed 15 y/o programmer from Polandia<br>🔭 I’m currently working on: Improving my skills with C#<br>🌱 I’m currently learning: Basics of algorithms and data-types<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: I love sushi
+15 y/o programmer from Poland<br>🔭 I’m currently working on: Improving my skills with C#<br>🌱 I’m currently learning: Basics of algorithms and data-types<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: I love sushi
 
 
 # 💻 Tech Stack:
