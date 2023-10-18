@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer from Poland 🇵🇱 ;)<br>🔭 I’m currently working on: Buildning full stack website, e commerce shop with stripe<br>🌱 I’m currently learning: NodeJS<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
+Programmer from Poland ;)<br>🔭 I’m currently working on: Buildning full stack website, e commerce shop with stripe<br>🌱 I’m currently learning: NodeJS<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
 
 
 # 💻 Tech Stack:
