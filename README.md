@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer from Poland :)<br>🔭 I’m currently working on: Building a 2D space shooter arcade game with OpenGL <br>🌱 I’m currently learning: C++/OpenGL<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
+Programmer from Poland :)<br>🔭 I’m currently working on: OpenGL <br>🌱 I’m currently learning: C++/OpenGL<br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
 
 
 # 💻 Tech Stack:
