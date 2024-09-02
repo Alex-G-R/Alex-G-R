@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer from Poland :)<br>🔭 I’m currently working on: NemesisFlow <br>🌱 I’m currently learning: C++ <br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
+Programmer from Poland :)<br>🔭 I’m currently working on: progruming... <br>🌱 I’m currently learning: C++ <br>💬 Ask me about: Anything but i don't promise a good anwser<br>⚡ Fun fact: Spaghetti bolognese is far superior to carbonara
 
 
 # 💻 Tech Stack:
