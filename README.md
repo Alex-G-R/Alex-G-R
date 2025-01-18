@@ -1,4 +1,3 @@
-# Tech Stack:<br>
 ## Languages
 ### Advanced/intermediate: C++, Javascript
 ### Intermediate: HTML, CSS, Python
