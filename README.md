@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer from Poland :)<br>🔭 I’m currently working learning: C++ <br>
+Programmer from Poland :)<br> I’m currently working learning: C++ <br>
 
 
 # 💻 Tech Stack:
