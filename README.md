@@ -1,9 +1,9 @@
 ## Languages
-### Advanced/intermediate: C++, Javascript
-### Intermediate: HTML, CSS, Python
+### Advanced: C++, Javascript, Python
+### Intermediate: HTML, CSS
 ### Familiar with: PHP, C#, C<br>
 ## I also can use
-### SFML, MySQL/MariaDB, Git, CMake, ExpressJS, Bootstrap, ElectronJS<br><br>
+### SFML, MySQL/MariaDB, SQLite, OpenAI API, Git, CMake, ExpressJS, Bootstrap, ElectronJS<br><br>
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alex-G-R&theme=radical&hide_border=false)<br/>
 
